@@ -1,0 +1,290 @@
+LibraryID,SampleID,Location,Country,Species,Structure DNA Extracted from,Lat,Lon
+AFI1240,HO_CY_Le_01,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1241,HO_CY_Le_02,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1242,HO_CY_Le_03,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1243,HO_CY_Le_04,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1244,HO_CY_Le_05,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1245,HO_CY_Le_06,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1246,HO_CY_Le_07,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1247,HO_CY_Le_08,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1248,HO_CY_Le_09,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1249,HO_CY_Le_10,Cyrene Reef,Singapore,Halophila ovalis,Leaf,1.258905,103.754918
+AFI1250,HO_CY_Rh_01,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1251,HO_CY_Rh_02,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1252,HO_CY_Rh_03,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1253,HO_CY_Rh_04,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1254,HO_CY_Rh_05,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1255,HO_CY_Rh_06,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1256,HO_CY_Rh_07,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1257,HO_CY_Rh_08,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1258,HO_CY_Rh_09,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1259,HO_CY_Rh_10,Cyrene Reef,Singapore,Halophila ovalis,Rhizome,1.258905,103.754918
+AFI1260,HO_CY_Ro_01,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1261,HO_CY_Ro_02,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1262,HO_CY_Ro_03,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1263,HO_CY_Ro_04,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1264,HO_BLANK_01,Blank,Blank,Blank,Blank,1.258905,103.754918
+AFI1265,HO_CY_Ro_05,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1266,HO_CY_Ro_06,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1267,HO_CY_Ro_07,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1268,HO_CY_Ro_08,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1269,HO_CY_Ro_09,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1270,HO_CY_Ro_10,Cyrene Reef,Singapore,Halophila ovalis,Root,1.258905,103.754918
+AFI1271,HO_CY_Soil_01,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1272,HO_CY_Soil_02,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1273,HO_CY_Soil_03,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1274,HO_CY_Soil_04,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1275,HO_CY_Soil_05,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1276,HO_CY_Soil_06,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1277,HO_CY_Soil_07,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1278,HO_CY_Soil_08,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1279,HO_CY_Soil_09,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1280,HO_CY_Soil_10,Cyrene Reef,Singapore,Halophila ovalis,Soil,1.258905,103.754918
+AFI1281,HO_Sent_Le_01,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1282,HO_Sent_Le_02,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1283,HO_Sent_Le_03,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1284,HO_Sent_Le_04,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1285,HO_Sent_Le_05,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1286,HO_Sent_Le_06,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1287,HO_Sent_Le_07,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1288,HO_Sent_Le_08,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1289,HO_Sent_Le_09,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1290,HO_Sent_Le_10,Sentosa,Singapore,Halophila ovalis,Leaf,1.258297,103.807229
+AFI1291,HO_Sent_Rh_01,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1292,HO_Sent_Rh_02,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1293,HO_Sent_Rh_03,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1294,HO_Sent_Rh_04,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1295,HO_Sent_Rh_05,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1296,HO_BLANK_02,Blank,Blank,Blank,Blank,1.258297,103.807229
+AFI1297,HO_Sent_Rh_06,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1298,HO_Sent_Rh_07,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1299,HO_Sent_Rh_08,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1300,HO_Sent_Rh_09,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1301,HO_Sent_Rh_10,Sentosa,Singapore,Halophila ovalis,Rhizome,1.258297,103.807229
+AFI1302,HO_Sent_Ro_01,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1303,HO_Sent_Ro_02,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1304,HO_Sent_Ro_03,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1305,HO_Sent_Ro_04,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1306,HO_Sent_Ro_05,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1307,HO_Sent_Ro_06,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1308,HO_Sent_Ro_07,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1309,HO_Sent_Ro_08,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1310,HO_Sent_Ro_09,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1311,HO_Sent_Ro_10,Sentosa,Singapore,Halophila ovalis,Root,1.258297,103.807229
+AFI1312,HO_Sent_Soil_01,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1313,HO_Sent_Soil_02,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1314,HO_Sent_Soil_03,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1315,HO_Sent_Soil_04,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1316,HO_Sent_Soil_05,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1317,HO_Sent_Soil_06,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1318,HO_Sent_Soil_07,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1319,HO_Sent_Soil_08,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1320,HO_Sent_Soil_09,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1321,HO_Sent_Soil_10,Sentosa,Singapore,Halophila ovalis,Soil,1.258297,103.807229
+AFI1322,HO_LK_Le_01,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1323,HO_LK_Le_02,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1324,HO_LK_Le_03,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1325,HO_LK_Le_04,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1326,HO_LK_Le_05,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1327,HO_LK_Le_06,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1328,HO_BLANK_03,Blank,Blank,Blank,Blank,6.457894,99.823622
+AFI1329,HO_LK_Le_07,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1330,HO_LK_Le_08,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1331,HO_LK_Le_09,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1332,HO_LK_Le_10,Langkawi,West Malaysia,Halophila ovalis,Leaf,6.457894,99.823622
+AFI1333,HO_LK_Rh_01,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1334,HO_LK_Rh_02,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1335,HO_LK_Rh_03,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1336,HO_LK_Rh_04,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1337,HO_LK_Rh_05,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1338,HO_LK_Rh_06,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1339,HO_LK_Rh_07,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1340,HO_LK_Rh_08,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1341,HO_LK_Rh_09,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1342,HO_LK_Rh_10,Langkawi,West Malaysia,Halophila ovalis,Rhizome,6.457894,99.823622
+AFI1343,HO_LK_Ro_01,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1344,HO_LK_Ro_02,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1345,HO_LK_Ro_03,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1346,HO_LK_Ro_04,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1347,HO_LK_Ro_05,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1348,HO_LK_Ro_06,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1349,HO_LK_Ro_07,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1350,HO_LK_Ro_08,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1351,HO_LK_Ro_09,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1352,HO_LK_Ro_10,Langkawi,West Malaysia,Halophila ovalis,Root,6.457894,99.823622
+AFI1353,HO_LK_Soil_01,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1354,HO_LK_Soil_02,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1355,HO_LK_Soil_03,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1356,HO_LK_Soil_04,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1357,HO_LK_Soil_05,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1358,HO_LK_Soil_06,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1359,HO_LK_Soil_07,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1360,HO_BLANK_04,Blank,Blank,Blank,Blank,6.457894,99.823622
+AFI1361,HO_LK_Soil_08,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1362,HO_LK_Soil_09,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1363,HO_LK_Soil_10,Langkawi,West Malaysia,Halophila ovalis,Soil,6.457894,99.823622
+AFI1364,HO_CJ_Le_01,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1365,HO_CJ_Le_02,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1366,HO_CJ_Le_03,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1367,HO_CJ_Le_04,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1368,HO_CJ_Le_05,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1369,HO_CJ_Le_06,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1370,HO_CJ_Le_07,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1371,HO_CJ_Le_08,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1372,HO_CJ_Le_09,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1373,HO_CJ_Le_10,Chek Jawa,Singapore,Halophila ovalis,Leaf,1.412728,103.991134
+AFI1374,HO_CJ_Rh_01,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1375,HO_CJ_Rh_02,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1376,HO_CJ_Rh_03,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1377,HO_CJ_Rh_04,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1378,HO_CJ_Rh_05,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1379,HO_CJ_Rh_06,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1380,HO_CJ_Rh_07,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1381,HO_CJ_Rh_08,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1382,HO_CJ_Rh_09,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1383,HO_CJ_Rh_10,Chek Jawa,Singapore,Halophila ovalis,Rhizome,1.412728,103.991134
+AFI1384,HO_CJ_Ro_01,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1385,HO_CJ_Ro_02,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1386,HO_CJ_Ro_03,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1387,HO_CJ_Ro_04,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1388,HO_CJ_Ro_05,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1389,HO_CJ_Ro_06,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1390,HO_CJ_Ro_07,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1391,HO_CJ_Ro_08,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1392,HO_BLANK_05,Blank,Blank,Blank,Blank,1.412728,103.991134
+AFI1393,HO_CJ_Ro_09,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1394,HO_CJ_Ro_10,Chek Jawa,Singapore,Halophila ovalis,Root,1.412728,103.991134
+AFI1395,HO_CJ_Soil_01,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1396,HO_CJ_Soil_02,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1397,HO_CJ_Soil_03,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1398,HO_CJ_Soil_04,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1399,HO_CJ_Soil_05,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1400,HO_CJ_Soil_06,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1401,HO_CJ_Soil_07,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1402,HO_CJ_Soil_08,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1403,HO_CJ_Soil_09,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1404,HO_CJ_Soil_10,Chek Jawa,Singapore,Halophila ovalis,Soil,1.412728,103.991134
+AFI1405,HO_MS_Le_01,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1406,HO_MS_Le_02,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1407,HO_MS_Le_03,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1408,HO_MS_Le_04,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1409,HO_MS_Le_05,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1410,HO_MS_Le_06,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1411,HO_MS_Le_07,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1412,HO_MS_Le_08,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1413,HO_MS_Le_09,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1414,HO_MS_Le_10,Merambong Shoal,West Malaysia,Halophila ovalis,Leaf,1.331803,103.604591
+AFI1415,HO_MS_Rh_01,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1416,HO_MS_Rh_02,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1417,HO_MS_Rh_03,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1418,HO_MS_Rh_04,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1419,HO_MS_Rh_05,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1420,HO_MS_Rh_06,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1421,HO_MS_Rh_07,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1422,HO_MS_Rh_08,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1423,HO_MS_Rh_09,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1424,HO_BLANK_06,Blank,Blank,Blank,Blank,1.331803,103.604591
+AFI1425,HO_MS_Rh_10,Merambong Shoal,West Malaysia,Halophila ovalis,Rhizome,1.331803,103.604591
+AFI1426,HO_MS_Ro_01,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1427,HO_MS_Ro_02,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1428,HO_MS_Ro_03,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1429,HO_MS_Ro_04,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1430,HO_MS_Ro_05,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1431,HO_MS_Ro_06,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1432,HO_MS_Ro_07,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1433,HO_MS_Ro_08,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1434,HO_MS_Ro_09,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1435,HO_MS_Ro_10,Merambong Shoal,West Malaysia,Halophila ovalis,Root,1.331803,103.604591
+AFI1436,HO_MS_Soil_01,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1437,HO_MS_Soil_02,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1438,HO_MS_Soil_03,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1439,HO_MS_Soil_04,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1440,HO_MS_Soil_05,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1441,HO_MS_Soil_06,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1442,HO_MS_Soil_07,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1443,HO_MS_Soil_08,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1444,HO_MS_Soil_09,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1445,HO_MS_Soil_10,Merambong Shoal,West Malaysia,Halophila ovalis,Soil,1.331803,103.604591
+AFI1446,HO_Sem_Le_01,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1447,HO_Sem_Le_02,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1448,HO_BLANK_07,Blank,Blank,Blank,Blank,1.208273,103.756254
+AFI1449,HO_Sem_Le_03,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1450,HO_Sem_Le_04,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1451,HO_Sem_Le_05,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1452,HO_Sem_Le_06,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1453,HO_Sem_Le_07,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1454,HO_Sem_Le_08,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1455,HO_Sem_Le_09,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1456,HO_Sem_Le_10,Pulau Semakau,Singapore,Halophila ovalis,Leaf,1.208273,103.756254
+AFI1457,HO_Sem_Rh_01,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1458,HO_Sem_Rh_02,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1459,HO_Sem_Rh_03,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1460,HO_Sem_Rh_04,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1461,HO_Sem_Rh_05,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1462,HO_Sem_Rh_06,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1463,HO_Sem_Rh_07,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1464,HO_Sem_Rh_08,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1465,HO_Sem_Rh_09,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1466,HO_Sem_Rh_10,Pulau Semakau,Singapore,Halophila ovalis,Rhizome,1.208273,103.756254
+AFI1467,HO_Sem_Ro_01,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1468,HO_Sem_Ro_02,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1469,HO_Sem_Ro_03,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1470,HO_Sem_Ro_04,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1471,HO_Sem_Ro_05,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1472,HO_Sem_Ro_06,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1473,HO_Sem_Ro_07,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1474,HO_Sem_Ro_08,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1475,HO_Sem_Ro_09,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1476,HO_Sem_Ro_10,Pulau Semakau,Singapore,Halophila ovalis,Root,1.208273,103.756254
+AFI1477,HO_SA_Sem_Soil_01,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1478,HO_SA_Sem_Soil_02,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1479,HO_SA_Sem_Soil_03,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1480,HO_SA_Sem_Soil_04,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1481,HO_SA_Sem_Soil_05,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1482,HO_SA_Sem_Soil_06,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1483,HO_SA_Sem_Soil_07,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1484,HO_SA_Sem_Soil_08,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1485,HO_SA_Sem_Soil_09,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1486,HO_SA_Sem_Soil_10,Pulau Semakau,Singapore,Halophila ovalis,Soil,1.208273,103.756254
+AFI1487,HO_Per_Le_01,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1488,HO_BLANK_08,Blank,Blank,Blank,Blank,5.886142,102.741075
+AFI1489,HO_Per_Le_02,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1490,HO_Per_Le_03,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1491,HO_Per_Le_04,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1492,HO_Per_Le_05,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1493,HO_Per_Le_06,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1494,HO_Per_Le_07,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1495,HO_Per_Le_08,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1496,HO_Per_Le_09,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1497,HO_Per_Le_10,Perhentian,East Malaysia,Halophila ovalis,Leaf,5.886142,102.741075
+AFI1498,HO_Per_Rh_01,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1499,HO_Per_Rh_02,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1500,HO_Per_Rh_03,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1501,HO_Per_Rh_04,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1502,HO_Per_Rh_05,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1503,HO_Per_Rh_06,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1504,HO_Per_Rh_07,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1505,HO_Per_Rh_08,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1506,HO_Per_Rh_09,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1507,HO_Per_Rh_10,Perhentian,East Malaysia,Halophila ovalis,Rhizome,5.886142,102.741075
+AFI1508,HO_Per_Ro_01,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1509,HO_Per_Ro_02,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1510,HO_Per_Ro_03,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1511,HO_Per_Ro_04,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1512,HO_Per_Ro_05,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1513,HO_Per_Ro_06,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1514,HO_Per_Ro_07,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1515,HO_Per_Ro_08,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1516,HO_Per_Ro_09,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1517,HO_Per_Ro_10,Perhentian,East Malaysia,Halophila ovalis,Root,5.886142,102.741075
+AFI1518,HO_Per_Soil_01,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1519,HO_Per_Soil_02,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1520,HO_BLANK_09,Blank,Blank,Blank,Blank,5.886142,102.741075
+AFI1521,HO_Per_Soil_03,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1522,HO_Per_Soil_04,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1523,HO_Per_Soil_05,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1524,HO_Per_Soil_06,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1525,HO_Per_Soil_07,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1526,HO_Per_Soil_08,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1527,HO_Per_Soil_09,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
+AFI1528,HO_Per_Soil_10,Perhentian,East Malaysia,Halophila ovalis,Soil,5.886142,102.741075
