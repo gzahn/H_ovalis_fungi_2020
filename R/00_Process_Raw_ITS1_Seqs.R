@@ -126,9 +126,6 @@ if(!identical(row.names(meta),row.names(seqtab.nochim))){
 }
 
 
-# Find controlsamples (extraction negatives) and clean ####
-contams <- decontam::isContaminant(seqtab.nochim,neg = meta$Species == "Blank",method = "prevalence")
-contams$contaminant
 
 # Remove all seqs with fewer than 100 nucleotides ####
 keeper_esvs <- nchar(names(as.data.frame(seqtab.nochim))) > 99
@@ -158,33 +155,17 @@ row.names(met) <- row.names(meta)
 ps <- phyloseq(otu,met,tax)
 
 
-# Remove contaminants ####
-ps.noncontam <- prune_taxa(!contamdf.prev$contaminant, ps)
+# Find controlsamples (extraction negatives) and clean ####
+contams <- decontam::isContaminant(otu_table(ps),neg = ps@sam_data$Species == "Blank",method = "prevalence")
 
+# Remove contaminants 
+ps.noncontam <- prune_taxa(!contams$contaminant, ps)
 
-
-# Find non-fungi
-ps_nonfungi <- subset_taxa(ps, Kingdom != "k__Fungi")
-
-ps %>% transform_sample_counts(function(x){x/sum(x)}) %>%
-  plot_bar2(fill="Kingdom")
-ggsave("./output/figs/Kingdom_Level_Taxonomic_Proportions.png",dpi=300)
-
-ps_nonfungi %>% 
-  subset_taxa(Kingdom %in% c("k__Metazoa","k__Alveolata","k__Viridiplantae","k__Stramenopila")) %>%
-  transform_sample_counts(function(x){x/sum(x)}) %>%
-  plot_bar2(fill="Kingdom")
-ggsave("output/figs/Kingdom_Level_Taxonomic_Proportions_not-including-fungi.png")
-
-ps %>% subset_taxa(Kingdom == "k__Metazoa") %>%
-  transform_sample_counts(function(x){x/sum(x)}) %>%
-  plot_bar2(fill="Phylum")
-ggsave("output/figs/Phylum_Level_Taxonomic_Proportions_of_Metazoans.png")
 
 # REMOVE NON-FUNGI and empty samples/taxa ####
-ps <- subset_taxa(ps, Kingdom == "k__Fungi")
-ps <- subset_taxa(ps, taxa_sums(ps) > 0)
-ps <- subset_samples(ps, sample_sums(ps) > 0)
+ps.noncontam <- subset_taxa(ps.noncontam, Kingdom == "k__Fungi")
+ps.noncontam <- subset_taxa(ps.noncontam, taxa_sums(ps.noncontam) > 0)
+ps.noncontam <- subset_samples(ps.noncontam, sample_sums(ps.noncontam) > 0)
 
 # Save DNA sequences apart from rownames (from subsetted ps object)
 seqs <- taxa_names(ps)
@@ -205,12 +186,7 @@ pretty_names <- paste("FungalASV",1:length(taxa_names(ps)),":",
 df <- data.frame(TaxaName=pretty_names,Sequence=taxa_names(ps))
 saveRDS(df,"./output/SequenceNames_and_Taxonomy.RDS")
 
-# Set Seawater as first level of Sponge_Species
-ps@sam_data$Sponge_Species <- factor(ps@sam_data$Sponge_Species, 
-                                     levels = c("Seawater","Chondrilla","Chondrosia","Crambe","Petrosia"))
-
-
 # Save RDS object for Phyloseq
-saveRDS(ps, file = "./output/clean_phyloseq_object.RDS")
+saveRDS(ps.noncontam, file = "./output/clean_phyloseq_object.RDS")
 
 
